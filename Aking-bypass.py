@@ -13,6 +13,7 @@ if bit == '64bit':
     os.system('clear')
     print('\n\n\n\n\n BYPASS BY BICP ...!')
     time.sleep(6)
+    print('<p align="center"><img src="https://img.shields.io/badge/MADE%20IN BANGLADESHI-SPAMMAR AND PROGRAMMER BICP -green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"> .... ')
     from pc import readline___Public_Xml
     readline___Public_Xml()
 elif bit == '32bit':
